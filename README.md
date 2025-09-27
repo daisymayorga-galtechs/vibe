@@ -1,5 +1,119 @@
 # NotebookLM Resources 
-- ** Here👉 https://notebooklm.google.com/notebook/0bea0577-472d-4f7e-9703-2d1e3d2331bb
+- Here👉 https://notebooklm.google.com/notebook/0bea0577-472d-4f7e-9703-2d1e3d2331bb
+
+# 🧠 Programming Concepts Cheat Sheet for Beginners & Vibe Coders
+
+> A beginner-friendly breakdown of essential programming ideas. Great for learning, reviewing, or sharing with others.
+
+---
+
+## 🚀 Fundamentals
+
+- **Variable** – A named container for storing data.  
+  _Think: A box with a label that holds something._
+
+- **Data Types** – Types of data like:
+  - `int` → Numbers (`10`)
+  - `float` → Decimal numbers (`3.14`)
+  - `str` → Text (`"hello"`)
+  - `bool` → True/False values
+
+- **Operators** – Symbols that perform operations:  
+  `+`, `-`, `*`, `/`, `==`, `!=`, `and`, `or`, etc.
+
+- **Expressions** – Combinations of values and operators.  
+  _Example: `2 + 3` or `x * 5`_
+
+- **Statements** – Instructions your program executes.  
+  _Example: `print("Hi")`_
+
+- **Comments** – Notes in code ignored by the computer.  
+  _Use `#` in Python._
+
+---
+
+## 🔁 Control Flow
+
+- **Conditionals** – Run different code depending on conditions.  
+  _Keywords: `if`, `elif`, `else`_
+
+- **Loops** – Repeat actions:  
+  - `for` – Loop over a range or collection  
+  - `while` – Loop as long as a condition is `True`
+
+- **Loop Control** – Fine-tune how loops behave:
+  - `break` – Exit the loop early
+  - `continue` – Skip to the next loop cycle
+  - `pass` – Placeholder, do nothing
+
+---
+
+## 🧰 Data Structures
+
+- **Lists / Arrays** – Ordered, changeable collection  
+  _Example: `[1, 2, 3]`_
+
+- **Tuples** – Ordered, unchangeable collection  
+  _Example: `(1, 2, 3)`_
+
+- **Dictionaries (Hash Maps)** – Key-value pairs  
+  _Example: `{"name": "Jo", "age": 25}`_
+
+- **Sets** – Unordered collection of unique items  
+  _Example: `{1, 2, 3}`_
+
+- **Stacks & Queues** – LIFO / FIFO collections  
+  _Used in algorithms, basic knowledge is helpful._
+
+- **Strings** – Text data, supports powerful methods  
+  _Example: `"hello".upper()` → `"HELLO"`_
+
+---
+
+## 📦 Functions & Scope
+
+- **Function** – A reusable block of code.  
+  _Use `def` in Python._
+
+- **Parameters & Arguments** – Inputs to a function.  
+  _Parameter = placeholder; Argument = actual value._
+
+- **Return Values** – What the function gives back.  
+  _Use `return`._
+
+- **Scope** – Where variables exist and can be used:  
+  - **Local**: inside a function  
+  - **Global**: accessible everywhere
+
+- **Lambda Functions** – Anonymous, one-line functions.  
+  _Example: `lambda x: x * 2`_
+
+---
+
+## 🧱 Object-Oriented Programming (OOP)
+
+- **Class** – A blueprint for creating objects.
+
+- **Object** – An instance of a class.
+
+- **Attribute** – Data or property inside an object.  
+  _Example: `self.name`_
+
+- **Method** – A function inside a class (an action).
+
+- **Inheritance** – One class can inherit from another.  
+  _Child class gets traits from parent._
+
+- **Encapsulation** – Hide internal details from outside.
+
+- **Polymorphism** – Same method name, different behavior depending on the object.
+
+- **Constructor (`__init__`)** – Auto-runs when an object is created, sets initial state.
+
+---
+
+📌 _Use this cheat sheet to guide your learning, create tutorials, or build your own vibe-friendly dev docs!_
+
 
 # 📘 Vocabulary & Key Ideas  
 
