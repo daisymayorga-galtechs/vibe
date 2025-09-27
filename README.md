@@ -1,6 +1,9 @@
 # NotebookLM Resources 
 - Here👉 https://notebooklm.google.com/notebook/0bea0577-472d-4f7e-9703-2d1e3d2331bb
 
+# Slides 
+- Slides 👉 https://www.canva.com/design/DAGz9FNBqvw/BrzqV0zbMBRHD71KshVRxw/view?utm_content=DAGz9FNBqvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b008fb246#2
+
 # 🧠 Programming Concepts Cheat Sheet for Beginners & Vibe Coders
 
 > A beginner-friendly breakdown of essential programming ideas. Great for learning, reviewing, or sharing with others.
